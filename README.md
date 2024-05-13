@@ -28,6 +28,6 @@ En la salida, se utiliza un conector jack hembra de audio, posibilitando la cone
 <div align="center">
   <img src="https://github.com/Escondol/VuMeter-La-Sensacion/assets/86692164/7614d8b3-f775-405d-9c93-bb59ccb460d3" alt="PCB sin componentes">
   <img src="https://github.com/Escondol/VuMeter-La-Sensacion/assets/86692164/b7aa51c9-34d0-4ffc-8216-d8c934f1043f" alt="PCB con componentes">
-  <video src="https://github.com/Escondol/VuMeter-La-Sensacion/assets/86692164/2f066f8d-4129-4b47-a537-ef798792063d"></video>
+  <video src="https://github.com/Escondol/VuMeter-La-Sensacion/assets/86692164/32f93e89-226b-4c06-bc69-a35900c097ba"></video>
 </div>
 
