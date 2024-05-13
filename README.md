@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Vu Meter La Sensación</h1>
-  <img src="https://github.com/Escondol/VuMeter-La-Sensacion/assets/86692164/5f61a3b6-ce13-4c3a-9c71-53234667689b">
+  <img src="https://github.com/Escondol/VuMeter-La-Sensacion/assets/86692164/5f61a3b6-ce13-4c3a-9c71-53234667689b" alt="La Sensación">
 </div>
 
 ## Descripción del proyecto
@@ -16,7 +16,18 @@ La alimentación de este Vúmetro es dual, utilizando un OPAMP para gestionar la
 En la salida, se utiliza un conector jack hembra de audio, posibilitando la conexión mediante un cable jack macho-macho al amplificador o radio estéreo deseado.
 
 ## Técnologías Utilizadas
+- Electrónica
+- Software de Diseño PCB (EasyEDA)
+- Simulador (Multisim)
 
 ## Creditos y Contactos
-- Contreras, Dojanni E.
-- Segura, Gabrir
+- Contreras, Dojanni E.; esmerling.contreras@gmail.com
+- Segura, Gabrir; angelgabrir23@gmail.com
+
+## Anexos y Funcionamiento
+<div align="center">
+  <img src="https://github.com/Escondol/VuMeter-La-Sensacion/assets/86692164/7614d8b3-f775-405d-9c93-bb59ccb460d3" alt="PCB sin componentes">
+  <img src="https://github.com/Escondol/VuMeter-La-Sensacion/assets/86692164/b7aa51c9-34d0-4ffc-8216-d8c934f1043f" alt="PCB con componentes">
+  <video src="https://github.com/Escondol/VuMeter-La-Sensacion/assets/86692164/2f066f8d-4129-4b47-a537-ef798792063d">La Sensacion en funcionamiento</video>
+</div>
+
