@@ -22,7 +22,7 @@ En la salida, se utiliza un conector jack hembra de audio, posibilitando la cone
 
 ## Creditos y Contactos
 - Contreras, Dojanni E.; esmerling.contreras@gmail.com
-- Segura, Gabrir; angelgabrir23@gmail.com
+- Segura, Angel G.; angelgabrir23@gmail.com
 
 ## Anexos y Funcionamiento
 <div align="center">
